@@ -28,23 +28,17 @@ To run this app locally, follow these steps:
     ```bash
     git clone https://github.com/hristianivanov/valentines-app.git
     ```
-   
-2. Navigate into the project directory:
-    ```bash
-    cd valentines-app
-    ```
-
-3. Install dependencies:
+2. Install dependencies:
     ```bash
     npm install
     ```
 
-4. Start the development server:
+3. Start the development server:
     ```bash
     npm run dev
     ```
 
-5. Open your browser and visit `http://localhost:5173` to see the app in action.
+4. Open your browser and visit `http://localhost:5173` to see the app in action.
 
 ## 📚 Prerequisites
 
